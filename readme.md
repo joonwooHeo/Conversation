@@ -1,0 +1,1 @@
+npm install express axios dotenv @google-cloud/speech @google-cloud/text-to-speech openai fs play-sound
